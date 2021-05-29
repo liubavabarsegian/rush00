@@ -6,7 +6,6 @@ void	rush(int x, int y)
 	int 	j;
 
 	i = 0;
-	
 	while (i < y)
 	{
 		j = 0;
@@ -25,7 +24,6 @@ void	rush(int x, int y)
 		}
 		ft_putchar('\n');
 		i++;
-		
 	}
 }
 
