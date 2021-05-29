@@ -29,6 +29,6 @@ void	rush(int x, int y)
 
 int main()
 {
-	rush (6, 1);
+	rush (15, 10);
 	return (0);
 }
